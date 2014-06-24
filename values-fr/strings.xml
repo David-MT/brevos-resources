@@ -2,61 +2,61 @@
 <resources>
     <string name="shorten_copy">Copier</string>
     <string name="shorten_share">Partager</string>
-    <string name="shorten_hint_text">Paste URL here</string>
+    <string name="shorten_hint_text">Coller l'URL ici</string>
 
-    <string name="expand">expand</string>
+    <string name="expand">développer</string>
     <string name="shorten">shorten</string>
     <string name="shorten_url">Shorten Url</string>
-    <string name="create_short_url">Create Short Url</string>
+    <string name="create_short_url">Créez URL courte</string>
 
-    <string name="button_auth_bitly">Sign in with bit.ly</string>
-    <string name="button_auth_bitly_sign_out">Sign Out</string>
+    <string name="button_auth_bitly">Connectez-vous avec bit.ly</string>
+    <string name="button_auth_bitly_sign_out">Déconnexion</string>
 
     <string name="clipboard_use_url">Shorten</string>
-    <string name="clipboard_url_text">A URL was found in the clipboard: %s</string>
+    <string name="clipboard_url_text">l'URL est dans votre presse-papiers: %s</string>
 
-    <string name="action_settings">Settings</string>
-    <string name="action_sign_out">Sign Out</string>
-    <string name="action_copy">Copy</string>
-    <string name="action_open_main">Open Brevos</string>
-    <string name="action_share">Share</string>
+    <string name="action_settings">Réglages</string>
+    <string name="action_sign_out">Déconnexion</string>
+    <string name="action_copy">Copier</string>
+    <string name="action_open_main">Ouvrir Brevos</string>
+    <string name="action_share">Partagez</string>
     <string name="dialog_please_wait">Veuillez patienter&#8230;</string>
-    <string name="dialog_loading_authorization">Loading bit.ly authorization</string>
-    <string name="dialog_abort">cancelled</string>
+    <string name="dialog_loading_authorization">Autorisation en cours de bit.ly</string>
+    <string name="dialog_abort">Annulé</string>
 
-    <string name="dialog_auth_bitly_required">You must be signed into bit.ly for this feature.</string>
-    <string name="dialog_no">No Thank You</string>
+    <string name="dialog_auth_bitly_required">Vous devez être connecté à bit.ly pour cette fonction.</string>
+    <string name="dialog_no">Non Merci</string>
 
-    <string name="pop_over_open_app">Open Link in Brevos</string>
-    <string name="link_copied">%s copied to clipboard.</string>
-    <string name="error_invalid_url">Make sure you entered a valid URL.</string>
+    <string name="pop_over_open_app">Ouvrir le lien dans Brevos</string>
+    <string name="link_copied">%s copié dans le presse papier.</string>
+    <string name="error_invalid_url">Assurez-vous d'avoir saisi une URL valide.</string>
 
-    <string name="title_activity_bitly_auth">Bit.ly Authorization</string>
+    <string name="title_activity_bitly_auth">Autorisation Bit.ly</string>
     <string name="shorten_info">Info</string>
-    <string name="action_log_out">Log Out</string>
-    <string name="error_no_url">No url to shorten.</string>
-    <string name="error_placeholder">Error: %s</string>
-    <string name="title_activity_link">Link Info</string>
-    <string name="error_loading_clicks">Loading clicks failed.</string>
-    <string name="error_loading_info">Loading info failed.</string>
+    <string name="action_log_out">Déconnexion</string>
+    <string name="error_no_url">Aucune URL à raccourcir.</string>
+    <string name="error_placeholder">Erreur: %s</string>
+    <string name="title_activity_link">Info lien</string>
+    <string name="error_loading_clicks">Le chargement des Clics a échoué.</string>
+    <string name="error_loading_info">Le chargements des infos a échoué.</string>
 
-    <string name="error_loading">Loading failed, try again.</string>
-    <string name="error_server">Server error, try again.</string>
-    <string name="bitly_connection_error">Error connecting to bit.ly</string>
+    <string name="error_loading">Chargement échoué, essayez à nouveau.</string>
+    <string name="error_server">Erreur de serveur, réessayez.</string>
+    <string name="bitly_connection_error">Erreur de connexion à bit.ly</string>
 
-    <string name="shorten_url_options">Shorten Url Options</string>
+    <string name="shorten_url_options">Options des URL Raccourcie</string>
     <string name="button_collapse">Collapse Options</string>
-    <string name="domain_select">Select Domain</string>
+    <string name="domain_select">Sélectionner un domaine</string>
 
-    <string name="click_day_title">day</string>
-    <string name="click_hour_title">hour</string>
-    <string name="click_month_title">month</string>
-    <string name="click_week_title">week</string>
+    <string name="click_day_title">jour</string>
+    <string name="click_hour_title">heure</string>
+    <string name="click_month_title">mois</string>
+    <string name="click_week_title">selaine</string>
     <string name="favicon">favicon</string>
-    <string name="link_info_clicks_title">Clicks</string>
+    <string name="link_info_clicks_title">Clics</string>
 
-    <string name="error_loading_history">Error loading user history</string>
-    <string name="error_shortening">Error creating short url, try again?</string>
+    <string name="error_loading_history">Erreur de chargement de l'historique de l'utilisateur</string>
+    <string name="error_shortening">Erreur de création de l'url courte, essayez à nouveau?</string>
     <string name="error_expanding">Error expanding url, try again?</string>
     <string name="error_parsing_response">Error parsing response from server.</string>
 
